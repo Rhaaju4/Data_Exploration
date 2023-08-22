@@ -1,3 +1,4 @@
+# Exploratory Data Analysis in Python
 This will cover the process of exploring and analyzing data, from understanding what’s included in a dataset to incorporating exploration findings into a data science workflow.
 
 
